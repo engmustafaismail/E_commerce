@@ -1,3 +1,3 @@
 # E_commerce
 
-## some notes
+##some notes :
